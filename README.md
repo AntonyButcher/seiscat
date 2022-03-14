@@ -1,1 +1,3 @@
-# seiscat
+# Installation
+
+python setup.py develop
