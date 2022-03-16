@@ -5,3 +5,5 @@ __license__ = "MIT"
 __author__ = "Antony Butcher"
 __email__ = ""
 import seiscat.sfile_read
+import seiscat.mag_eqs
+import seiscat.bgscat

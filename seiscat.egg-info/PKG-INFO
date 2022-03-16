@@ -5,7 +5,10 @@ Summary: A package for processing Distributed Acoustic Sensing (DAS) data.
 Home-page: UNKNOWN
 Author: Antony Butcher
 License: UNKNOWN
-Description: # seiscat
+Description: # Installation
+        
+        python setup.py develop
+        
 Platform: UNKNOWN
 Classifier: Development Status :: 4 - Beta
 Classifier: Programming Language :: Python :: 3
